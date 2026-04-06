@@ -17,8 +17,19 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp -->
+  
+  <h5 align="center">Web: </h5>
+  
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css)
 
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,flutter,kotlin)
+  <h5 align="center">Mobile: </h5>
+
+  ![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter)
+  
+  <h5 align="center">Client: </h5>
+
+  ![My Skills](https://skillicons.dev/icons?i=unity)
+
 </div>
 
 <h4 align="center">⚙️ Backend</h4>
@@ -31,23 +42,30 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🗄️ Database 🗄️</h3>
+<div align="center">
+
+  ![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
+</div>
+
+<br>
+
+<h3 align="center">🤝 Collaboration & Version Control 🤝</h3>
 <div align="center">
   <!-- <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp -->
   
-  ![My Skills](https://skillicons.dev/icons?i=discord,eclipse,git,github,idea,mysql,notion,postgres)
+  ![My Skills](https://skillicons.dev/icons?i=git,github,notion,discord)
 </div>
   
 
 <br>
 
+<h3 align="center">💻 IDE 💻</h3>
 <div align="center">
-  <!-- <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp -->
-  
-  ![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,vscode)
+
+  ![My Skills](https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode)
 </div>
 
 <br>
