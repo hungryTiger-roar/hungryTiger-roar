@@ -14,24 +14,14 @@
 <!--내용 부분-->
 <h3 align="center">📚 Tech Stack 📚</h3>
 <h4 align="center">🎨 Frontend</h4>
+
 <div align="center">
   <!-- <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp -->
   
-  <h5 align="center">Web: </h5>
-  
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css)
-
-  <h5 align="center">Mobile: </h5>
-
-  ![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter)
-  
-  <h5 align="center">Client: </h5>
-
-  ![My Skills](https://skillicons.dev/icons?i=unity)
-
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,flutter,unity)
 </div>
 
 <h4 align="center">⚙️ Backend</h4>
@@ -39,15 +29,7 @@
   <!-- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp -->
   
-  ![My Skills](https://skillicons.dev/icons?i=java,spring)
-</div>
-
-<br>
-
-<h3 align="center">🗄️ Database 🗄️</h3>
-<div align="center">
-
-  ![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
+  ![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres)
 </div>
 
 <br>
@@ -67,7 +49,7 @@
 <h3 align="center">💻 IDE 💻</h3>
 <div align="center">
 
-  ![My Skills](https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode)
+  ![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,androidstudio)
 </div>
 
 <br>
