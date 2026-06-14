@@ -68,6 +68,7 @@
 
 | 프로젝트명 | 설명 | 역할 | 링크 |
 |:---:|:---:|:---:|:---:|
+| **번역의 민족** | 외국인 유학생을 위한 AI 기반 대학교 강의 실시간 번역 서비스 | 웹 프론트엔드 / 백엔드 | [바로가기](https://github.com/hungryTiger-roar/BUNMIN) |
 | **SSAFY PLAY GAME** | 싸피 캐릭터들이 등장하는 메타버스 대전 게임 | UI 구현 | [바로가기](https://github.com/hungryTiger-roar/SsafyPlayTime) |
 | **줍땅 (JUPDDANG)** | 환경 보호에 게임 요소를 접목한 플로깅 땅따먹기 앱 | 풀스택 개발 / ERD 총괄 | [바로가기](https://github.com/hungryTiger-roar/JUPDDANG) |
 | **훈민월드** | 놀이공원 대기 시간 단축을 위한 O2O 서비스 앱 | ERD 설계 및 총괄 / 앱 UI 구현 | [바로가기](https://github.com/hungryTiger-roar/Hoonmin-World) |
