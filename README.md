@@ -26,8 +26,8 @@ base= — 시작 숫자를 임의로 올리고 싶을 때
 <br>
 
 <!--내용 부분-->
-### 🎓 Experience & Education
-| 기간 | 소속 / 활동 | 상태 |
+### 🖥️ Education
+| 기간 | 교육 기관 | 상태 |
 |:---:|:---:|:---:|
 | 2025.07 ~ 2026.06 | <img src="https://i.namu.wiki/i/1QtQSFrnfKYRppsRGAtHtwOLIot9PzZpFZu8KOrI_rK5RDMlS7XuwOWQvTYcR2vHvQf7UfgoFNCmSdDojXmAtg.svg" width="30" align="absmiddle" /> SSAFY (삼성 청년 SW AI 아카데미) 14기 모바일 트랙 | 수료 예정 |
 | 2024.04 ~ 2024.07 | <img src="https://media-cdn.linkareer.com/activity_manager/logos/792522" width="30" align="absmiddle" /> 기업맞춤형 JAVA 웹개발자 양성과정 | 수료 |
