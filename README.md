@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFC2D1&height=300&section=header&text=Full-stack%20Developer&fontSize=50&fontColor=FF8FAB" />
 
 
-
 <!--타이틀 부분-->
 <div align="center">
   <h1 align="center">
@@ -25,6 +24,8 @@ style= — flat, flat-square, for-the-badge, plastic 중 선택
 base= — 시작 숫자를 임의로 올리고 싶을 때
 -->
 <br>
+
+
 
 <!--내용 부분-->
 ### 🖥️ Education
@@ -62,6 +63,7 @@ base= — 시작 숫자를 임의로 올리고 싶을 때
 </table>
 
 
+
 ### 💻 Projects
 | 프로젝트명 | 설명 | 역할 | 링크 |
 |:---:|:---:|:---:|:---:|
@@ -69,6 +71,9 @@ base= — 시작 숫자를 임의로 올리고 싶을 때
 | **SSAFY PLAY GAME** | 싸피 캐릭터들이 등장하는 메타버스 대전 게임 | 전체 UI 구현 | [바로가기](https://github.com/hungryTiger-roar/SsafyPlayTime) |
 | **줍땅 (JUPDDANG)** | 환경 보호에 게임 요소를 접목한 플로깅 땅따먹기 앱 | 풀스택 개발 / ERD 총괄 | [바로가기](https://github.com/hungryTiger-roar/JUPDDANG) |
 | **훈민월드** | 놀이공원 대기 시간 단축을 위한 O2O 서비스 앱 | 팀장 / ERD 설계 및 총괄 / 앱 UI 구현 | [바로가기](https://github.com/hungryTiger-roar/Hoonmin-World) |
+
+### [📌 포트폴리오 바로가기](https://github.com/hungryTiger-roar/portfolio)
+
 
 <br>
 <br>
