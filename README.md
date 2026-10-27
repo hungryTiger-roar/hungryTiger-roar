@@ -39,6 +39,15 @@ base= — 시작 숫자를 임의로 올리고 싶을 때
 |:---:|:---:|:---:|
 | 2024.07 ~ 2024.10 | 스페이스뱅크 (인턴) | 웹앱 개발 및 디지털전환 (DX팀 인턴) |
 
+### 📜 Certifications
+| 취득일 | 자격증 | 발급 기관 |
+|:---:|:---:|:---:|
+| 2026.12.18 (예정)| 정보처리기사 | 한국산업인력공단 |
+| 2026.09.11 | SQLD (SQL 개발자) | 한국데이터산업진흥원 |
+| 2025.11.05 | SSAFY SW역량테스트 A형 | SSAFY |
+| 2023.07.21 | Graphic Design & Illustration using Adobe Illustrator | Certiport |
+| 2023.06.12 | 파이썬 프로그래밍 활용능력 2급 | 한국정보인재개발원 |
+| 2018.12.13 | Microsoft Office Specialist 2010 Master | Microsoft |
 
 ### 🏆 Awards
 <table>
